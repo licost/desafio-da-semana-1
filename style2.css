@@ -1,0 +1,30 @@
+#t1{
+    text-align:center;
+    color: green;
+}
+#t2{
+    color: green;
+    text-align: center;
+    font-size: x-large;
+}
+#principal { background-color: lightgreen;
+     
+}
+img{
+    width: 400px;
+    left: 400px;
+    float:initial;
+    width: 40%;
+    text-align: center;
+    text-indent: 0;
+    position: relative;
+}
+#t3 {color: green;
+    text-align: center;
+    font-size: x-large;
+
+}
+
+
+
+
